@@ -1,0 +1,4 @@
+com/guestlist/party/GuestListApplication.class
+com/guestlist/party/controller/GuestsController.class
+com/guestlist/party/Guest.class
+com/guestlist/party/Guests.class
